@@ -230,7 +230,7 @@ body {
 .card-container {
     position: absolute;
     width: 92%;
-    padding-left: 6%;
+    padding-left: 7%;
     height: 220px;
     display: flex;
     margin: 0 auto;
@@ -301,7 +301,7 @@ body {
     opacity: 0.8;
     margin: 5px 0;
     font-weight: 500;
-    font-size: 0.6vw;
+    font-size: 0.5vw;
 }
 
 .watchlist-btn {
